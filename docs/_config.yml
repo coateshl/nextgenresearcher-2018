@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Next Generation Researcher
 description: A program for early career researchers on the IUPUI campus
 language: en_US
-show_downloads: true
+show_downloads: false
