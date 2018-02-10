@@ -8,6 +8,6 @@ To kick off this program, the [IUSM Ruth Lilly Medical Library] (https://mednet.
 
 We’re inviting units and groups from across IUPUI to exhibit and talk about the services they offer that are specific to early career researchers as well as the opportunities at IUSM and IUPUI for professional and research development. See the [Resource Fair] () page for more information/details.
 
-Last but *not* least, there will be snacks and plenty of coffee/tea on hand :pizza::cookie::coffee::tea:!
+Last but *not* least, there will be snacks and plenty of coffee/tea on hand :pizza: :cookie: :coffee: :tea:!
 
 ## Fellowship Program
