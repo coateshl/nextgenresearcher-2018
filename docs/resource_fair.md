@@ -1,11 +1,8 @@
-## Resource Fair
-##### :sparkles:Save the date:sparkles:
+## Resource Fair -- save the date:sparkles:
 
-March 27, 2018
+When: March 27, 2018 from 11am-2pm
 
-11am-2pm
-
-IUPUI Campus Center 450B
+Where: IUPUI Campus Center 450B
 
 ## Agenda
 11am --- Kick off, exhibiting starts
@@ -20,7 +17,9 @@ IUPUI Campus Center 450B
 
 Are you a graduate/doctoral student, post doc, and/or early career faculty, staff at IUPUI? Do you have questions about resources and support available to get you to that next stage of your career?
 
-This resource fair gives you the opportunity to learn about services for early career researchers plus you'll have the chance to chat with folks that provide these services!
+This resource fair gives you the opportunity to learn about services available to you plus you'll have the chance to chat with folks that provide these services! See below for a list of current list of exhibitors and 
+
+And we'll have snacks! :hamburger::cookie::coffee::tea:
 
 ## Who will be there?
 
@@ -42,5 +41,7 @@ This resource fair gives you the opportunity to learn about services for early c
 
 * [IUPUI University Library](https://ulib.iupui.edu/)
 
-## Will there be food?
-Yes, we'll have snacks! :hamburger::cookie::fork_and_knife: Plus :coffee::tea:
+## Questions? Ask us!
+Heather Coates, Digital Scholarship & Data Management Librarian, University Library Center for Digital Scholarship -- hcoates@iupui.edu
+
+Erin Foster, Data Services Librarian, Ruth Lilly Medical Library -- erdfost@iu.edu
