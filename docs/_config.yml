@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 title: Next Generation Researcher
 description: A program for early career researchers on the IUPUI campus
+url: coateshl.github.io/nextgen2018
 language: en_US
-show_downloads: false
+show_downloads: true
