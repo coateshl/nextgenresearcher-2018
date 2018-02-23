@@ -18,9 +18,9 @@ Where: IUPUI Campus Center 450B
 
 Are you a graduate student, post doc, research scientists, and/or early career faculty member at IUPUI? Do you have questions about resources and support available to get you to that next stage of your career?
 
-This resource fair gives you the opportunity to learn about services available to you plus you'll have the chance to chat with the folks that provide these services! See below for a list of units/groups that'll be represented at the resource fair.
+This resource fair gives you the opportunity to learn about services available to you plus you'll have the chance to chat with the folks that provide these services. See below for a list of units/groups that'll be represented at the resource fair.
 
-And we'll have snacks!
+**[Register here](http://j.mp/2CjErGi)** and let us know you'll be there!
 
 ## Who will be there?
 
