@@ -11,3 +11,4 @@ We’re inviting units and groups from across IUPUI to exhibit and talk about th
 Last but *not* least, there will be snacks and plenty of coffee/tea on hand! :pizza::cookie::coffee::tea:
 
 ## Fellowship Program
+The Fellowship program is developed for early career researchers - graduate students, post-docs, research scientists, and early career faculty - to provide exposure, support, and training to explore open science practices and tools. It will provide a cohort of competitively selected Fellows with training, support, and hands-on experience with some of the most popular and useful tools available. In addition to formal training opportunities through The Carpentries and guest speakers, we have designated time to explore tools and strategies that are applicable to your field of research. The program directors will guide you in navigating the wealth of resources and research support available across the IU system.
