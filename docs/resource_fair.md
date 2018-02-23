@@ -1,5 +1,6 @@
-## Resource Fair -- save the date :sparkles::sparkles:
+# Resource Fair
 
+## Save the Date!
 When: March 27, 2018 from 11am-2pm
 
 Where: IUPUI Campus Center 450B
