@@ -1,17 +1,17 @@
-# Next Generation Researcher Fellowship Program
+# Fellowship Program
 The Fellowship program is developed for early career researchers - graduate students, post-docs, research scientists, and early career faculty - to provide exposure, support, and training to explore open science practices and tools. 
 
 Not exactly sure what open science means? We use open science as an umbrella term that encompasses many movements to increase the openness and accessibility of research processes, inputs, and outputs. It includes:
-open access to publications
-open research data
-open source software
-open collaboration
-open peer review
-open notebooks
-open educational resources
-open monographs
-citizen science
-research crowdfunding
+- open access to publications
+- open research data
+- open source software
+- open collaboration
+- open peer review
+- open notebooks
+- open educational resources
+- open monographs
+- citizen science
+- research crowdfunding
 
 Want to learn more? Check out the FOSTER EU taxonomy and the article by Benedikt Fecher & Sascha Friesike One Term, Five Schools of Thought.
 
@@ -19,14 +19,14 @@ Want to learn more? Check out the FOSTER EU taxonomy and the article by Benedikt
 The program will provide a cohort of Fellows with training and hands-on experience with some of the most popular and useful tools available. In addition to formal training opportunities through The Carpentries and guest speakers, we have designated time to explore tools and strategies that are applicable to your field of research. The program directors will guide you in navigating the wealth of resources and research support available across the IU system.
 
 Some of the topics we will explore include:
-Study pre-registration & clinical trial registration
-Mechanisms of open access
-Data sharing, reuse, licensing for secondary analysis
-Open peer review
-Open source tools such as R, Git & Github/Gitlab
-Open notebooks
-Reproducibility, replicability, repeatability
-Open software & software citation
+- Study pre-registration & clinical trial registration
+- Mechanisms of open access
+- Data sharing, reuse, licensing for secondary analysis
+- Open peer review
+- Open source tools such as R, Git & Github/Gitlab
+- Open notebooks
+- Reproducibility, replicability, repeatability
+- Open software & software citation
 
 ## Why apply?
 Beyond learning how to improve your research workflows, the program will provide opportunities to: 
