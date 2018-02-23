@@ -1,5 +1,3 @@
-# Resource Fair
-
 ## Save the Date!
 When: March 27, 2018 from 11am-2pm
 
@@ -8,7 +6,7 @@ Where: IUPUI Campus Center 450B
 ## Agenda
 11am --- Kick off, exhibiting starts
 
-12pm --- Welcome, Lightning talks from exhibitors :zap::zap:
+12pm --- Welcome, Lightning talks from exhibitors :zap:
 
 12:30pm --- Exhibiting continues
 
@@ -16,11 +14,11 @@ Where: IUPUI Campus Center 450B
 
 ## Why should you attend?
 
-Are you a graduate/doctoral student, post doc, and/or early career faculty, staff at IUPUI? Do you have questions about resources and support available to get you to that next stage of your career?
+Are you a graduate student, post doc, research scientists, and/or early career faculty member at IUPUI? Do you have questions about resources and support available to get you to that next stage of your career?
 
-This resource fair gives you the opportunity to learn about services available to you plus you'll have the chance to chat with folks that provide these services! See below for a list of units/groups that'll be represented at the resource fair.
+This resource fair gives you the opportunity to learn about services available to you plus you'll have the chance to chat with the folks that provide these services! See below for a list of units/groups that'll be represented at the resource fair.
 
-And we'll have snacks! :hamburger::cookie::coffee::tea:
+And we'll have snacks!
 
 ## Who will be there?
 
