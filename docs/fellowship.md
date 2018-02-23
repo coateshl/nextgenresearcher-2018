@@ -13,7 +13,7 @@ Not exactly sure what open science means? We use open science as an umbrella ter
 - citizen science
 - research crowdfunding
 
-Want to learn more? Check out the FOSTER EU taxonomy and the article by Benedikt Fecher & Sascha Friesike One Term, Five Schools of Thought.
+Want to learn more? Check out the [FOSTER EU](https://www.fosteropenscience.eu/) [taxonomy](https://www.fosteropenscience.eu/resources) and the article by Benedikt Fecher & Sascha Friesike [One Term, Five Schools of Thought](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/basics_background/open_science_one_term_five_schools_of_thought.html).
 
 ## About the Program
 The program will provide a cohort of Fellows with training and hands-on experience with some of the most popular and useful tools available. In addition to formal training opportunities through The Carpentries and guest speakers, we have designated time to explore tools and strategies that are applicable to your field of research. The program directors will guide you in navigating the wealth of resources and research support available across the IU system.
@@ -42,10 +42,11 @@ Submit your application form and letter of support [add link]
 
 ## Program Schedule
 June - December 2018
+
 We will meet in-person on a monthly basis, with additional working sessions and informal meetups scheduled intermittently.
 
 ## Expectations
-Read the Memorandum of Understanding (MOU) to see what will be expected of our Fellows.
+Read the Memorandum of Understanding (coming soon!) to see what will be expected of our Fellows.
 
 ### Contact Us
 Heather Coates, Digital Scholarship & Data Management Librarian, University Library Center for Digital Scholarship
