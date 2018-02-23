@@ -1,4 +1,6 @@
-# Next Generation Researcher Program @ IUPUI
+# About
+
+## Next Generation Researcher Program @ IUPUI
 
 This program was developed for early career researchers in any discipline or field at IUPUI. This includes early career faculty, research scientists, post-doctoral fellows, and graduate students. The program includes both the Resource Fair and the Fellowship Program.
 
