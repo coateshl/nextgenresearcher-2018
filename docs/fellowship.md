@@ -35,7 +35,6 @@ Beyond the learning opportunities and workshops, the program will provide opport
 - tap into the wealth of resources available on the IUPUI campus and across the IU system
 - talk about and share your research with a wide audience
 - compete for 3 prizes to support your research
-# - write for the PLoS SciComm Blog - waiting for confirmation on this
 
 ## How to apply?
 Review the application questions (coming soon) and letter of support template (coming soon)
