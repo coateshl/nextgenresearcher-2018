@@ -29,16 +29,19 @@ Some of the topics we will explore include:
 - Open software & software citation
 
 ## Why apply?
-Beyond learning how to improve your research workflows, the program will provide opportunities to: 
-connect with colleagues and potential mentors across the IUPUI campus
-Tap into the wealth of resources available on the IUPUI campus and within the IU system
-write for the PLoS SciComm Blog
+Beyond the learning opportunities and workshops, the program will provide opportunities to:
+- explore new practices to improve your research processes and workflows 
+- connect with colleagues and potential mentors across the IUPUI campus to build your support network
+- tap into the wealth of resources available on the IUPUI campus and across the IU system
+- talk about and share your research with a wide audience
+- compete for 3 prizes to support your research
+# - write for the PLoS SciComm Blog - waiting for confirmation on this
 
 ## How to apply?
-Review the application questions [add link] and letter of support template [add link]
+Review the application questions (coming soon) and letter of support template (coming soon)
 Think about what you want to get out of the program
 Get your letter of support
-Submit your application form and letter of support [add link]
+Submit your application form and letter of support (coming soon)
 
 ## Program Schedule
 June - December 2018
@@ -46,7 +49,7 @@ June - December 2018
 We will meet in-person on a monthly basis, with additional working sessions and informal meetups scheduled intermittently.
 
 ## Expectations
-Read the Memorandum of Understanding (coming soon!) to see what will be expected of our Fellows.
+Read the Memorandum of Understanding (coming soon) to see what will be expected of our Fellows.
 
 ### Contact Us
 Heather Coates, Digital Scholarship & Data Management Librarian, University Library Center for Digital Scholarship
