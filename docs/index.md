@@ -18,4 +18,5 @@ The Fellowship program is developed for early career researchers - graduate stud
 Fellows will be selected based on the potential benefit received from the program curriculum and expertise available (selection criteria to be posted in March). In pursuit of a diverse, equitable, and inclusive environment, the program will adopt the principles outlined in the [OpenCon Diversity, Equity, and Inclusion report](https://sparcopen.github.io/opencon-dei-report/). All qualified applicants will receive consideration for participation without regard to race, color, religion, national origin, sex, sexual orientation, gender identity or expression, marital status, age, disability status, or protected veteran status. Individuals who require a reasonable accommodation in order to participate in the application process and program are encouraged to contact us for support.
 
 Heather Coates: [hcoates@iupui.edu](mailto:hcoates@iupui.edu)
+
 Erin Foster: [erdfost@iu.edu](mailto:erdfost@iu.edu)
