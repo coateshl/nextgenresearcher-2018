@@ -37,13 +37,13 @@ Beyond the learning opportunities and workshops, the program will provide opport
 - compete for 3 prizes to support your research
 
 ## How to apply?
-Review the application questions (coming soon) and letter of support template (coming soon)
-Think about what you want to get out of the program
-Get your letter of support
-Submit your application form and letter of support (coming soon)
+* Review the application questions (coming soon) and letter of support template (coming soon)
+* Think about what you want to get out of the program
+* Get your letter of support
+* Submit your application form and letter of support (coming soon)
 
 ## Program Schedule
-June - December 2018
+July - December 2018
 
 We will meet in-person on a monthly basis, with additional working sessions and informal meetups scheduled intermittently.
 
