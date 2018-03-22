@@ -37,7 +37,13 @@ Beyond the learning opportunities and workshops, the program will provide opport
 - compete for 3 prizes to support your research
 
 ## How to apply?
-* Review the application questions (coming soon) and letter of support template (coming soon)
+* Review the application questions (below) and letter of support template (coming soon)
+  * Why are you interested in open research? (150-300 words)
+  * What would you most like to learn about open research? (150-300 words)
+  * Tell us a little bit about your research. (300-500 words)
+  * How might your research benefit from open research practices? (150-300)
+  * What are your primary data and analytic tools right now?
+  * What new data, tools, or strategies would you like to explore?
 * Think about what you want to get out of the program
 * Get your letter of support
 * Submit your application form and letter of support (coming soon)
