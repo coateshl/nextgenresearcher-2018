@@ -1,4 +1,4 @@
-# Template
+# Letter of Support
 
 ### Please use official School or Departmental Letterhead
 ### Submit as a PDF
