@@ -1,7 +1,7 @@
-## Please use official School or Departmental Letterhead
-## Submit as a PDF
-
 # Template
+
+### Please use official School or Departmental Letterhead
+### Submit as a PDF
 
 Date
 
