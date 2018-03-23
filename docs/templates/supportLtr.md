@@ -6,8 +6,11 @@
 Date
 
 Heather Coates
+
 Erin Foster
+
 Next Generation Researcher Fellowship Program
+
 IUPUI
 
 Dear Ms. Coates & Ms. Foster,
