@@ -1,7 +1,7 @@
 # Fellowship Program
-The Fellowship program is developed for early career researchers - graduate students, post-docs, research scientists, and early career faculty - to provide exposure, support, and training to explore open science practices and tools. 
+The Fellowship program is developed for early career researchers - graduate students, post-docs, research scientists, and early career faculty - to provide exposure, support, and training to explore open research practices and tools. Although the term open science is more common, many of the practices associated with open science are relevant to all disciplines. This program is inclusive of all disciplines and research methods.
 
-Not exactly sure what open science means? We use open science as an umbrella term that encompasses many movements to increase the openness and accessibility of research processes, inputs, and outputs. It includes:
+Not exactly sure what open research means? We use open research as an umbrella term that encompasses many movements to increase the openness and accessibility of research processes, inputs, and outputs. It includes:
 - open access to publications
 - open research data
 - open source software
@@ -44,9 +44,11 @@ Beyond the learning opportunities and workshops, the program will provide opport
   * How might your research benefit from open research practices? (150-300)
   * What are your primary data and analytic tools right now?
   * What new data, tools, or strategies would you like to explore?
-* Think about what you want to get out of the program
-* Get your letter of support
-* Submit your application form and letter of support (coming soon)
+* Think about what you want to get out of the program.
+* Get a letter of support (see template) from your supervisor.
+  * Students should request a letter from their faculty mentor, preferably the primary advisor.
+  * Faculty should request a letter from their Department Chair or Associate Dean for Research.
+* Submit your application form and letter of support.
 
 ## Program Schedule
 July - December 2018
@@ -54,7 +56,11 @@ July - December 2018
 We will meet in-person on a monthly basis, with additional working sessions and informal meetups scheduled intermittently.
 
 ## Expectations
-Read the Memorandum of Understanding (coming soon) to see what will be expected of our Fellows.
+If accepted into the program, you will be asked to sign a Memorandum of Understanding acknowledging that you will fulfill these expectations to the best of your ability.
+  * I will participate fully in the program, attending the monthly meetings and scheduled workshops, to the best of my ability.
+  * I will integrate one new tool into my research process during the course of the project. 
+  * I agree to talk to other researchers at IUPUI about my experiences with open research tools and practices.
+  * I agree to write an essay reflecting on my experience in the program. 
 
 ### Contact Us
 Heather Coates, Digital Scholarship & Data Management Librarian, University Library Center for Digital Scholarship
