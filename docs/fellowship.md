@@ -48,7 +48,7 @@ Beyond the learning opportunities and workshops, the program will provide opport
 * Get a letter of support ([see template](https://coateshl.github.io/nextgenresearcher-2018/templates/supportLtr.html)) from your supervisor.
   * Students should request a letter from their faculty mentor, preferably the primary advisor.
   * Faculty should request a letter from their Department Chair or Associate Dean for Research.
-* Submit your application form and letter of support.
+* Complete the [application form and upload your letter of support](https://redcap.uits.iu.edu/surveys/?s=TKYJKNE9LN).
 
 ## Program Schedule
 July - December 2018
