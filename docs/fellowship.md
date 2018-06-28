@@ -28,6 +28,8 @@ Some of the topics we will explore include:
 - Reproducibility, replicability, repeatability
 - Open software & software citation
 
+## Applications are due on August 3, 2018 by 5:00pm
+
 ## Why apply?
 Beyond the learning opportunities and workshops, the program will provide opportunities to:
 - explore new practices to improve your research processes and workflows 
